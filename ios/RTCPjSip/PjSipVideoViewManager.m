@@ -1,7 +1,7 @@
-#import <React/RCTViewManager.h>
+#import "RCTViewManager.h"
 #import "PjSipVideoViewManager.m"
-#import <VialerPJSIP/pjsua.h>
-#import <React/RCTView.h>
+#import <VialerPJSIP/pjsua.h"
+#import "RCTView.h"
 
 /**
  * Implements an equivalent of {@code HTMLVideoElement} i.e. Web's video

@@ -1,4 +1,4 @@
-#import <React/RCTBridgeModule.h>
+#import "RCTBridgeModule.h"
 
 #import "PjSipAccount.h"
 #import "PjSipCall.h"

@@ -1,9 +1,9 @@
 #import "PjSipEndpoint.h"
 #import "PjSipModule.h"
 
-#import <React/RCTBridge.h>
-#import <React/RCTEventDispatcher.h>
-#import <React/RCTUtils.h>
+#import "RCTBridge.h"
+#import "RCTEventDispatcher.h"
+#import "RCTUtils.h"
 
 @interface PjSipModule ()
 
